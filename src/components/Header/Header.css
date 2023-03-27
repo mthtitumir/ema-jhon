@@ -3,7 +3,7 @@
     background-color: #1C2B35;
     display: flex;
     justify-content: space-between;
-    padding-left: 100px;
+    padding:0 100px;
     align-items: center;
 }
 .header a{
